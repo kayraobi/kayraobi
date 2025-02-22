@@ -4,7 +4,7 @@
 [![My Medium Blogpost]([https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io](https://medium.com/@kayraaayilmaaaz2077))
 
 <!--Introduction -->
-I'm a **Machine Learning Researcher&Dev* at [AI4CUAV](https://ai4cuav.org),[SUBORAO](https://scc.ius.edu.ba/blog/orao-aviation-club)
+I'm a Machine Learning Researcher&Dev* at [AI4CUAV](https://ai4cuav.org),[SUBORAO](https://scc.ius.edu.ba/blog/orao-aviation-club)
 
 - 📚 I’m currently learning Machine Learning,Computer Vision,Tensorflow,CUDA,Advanced C++,OpenCV
 - 🐝 I have worked on several side projects on a Machine Learning by using Yolov11,Keras,Tensorflow
