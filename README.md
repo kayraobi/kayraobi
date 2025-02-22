@@ -1,8 +1,7 @@
 <!-- Greeting -->
 # Hi, I'm Kayra! :wave:
 
-[![My Medium Blogpost]([https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io](https://medium.com/@kayraaayilmaaaz2077))
-
+[My Medium Blogpost](https://iahsanujunda.github.io](https://medium.com/@kayraaayilmaaaz2077)
 <!--Introduction -->
 I'm a Machine Learning Researcher&Dev at [AI4CUAV](https://ai4cuav.org),[SUBORAO](https://scc.ius.edu.ba/blog/orao-aviation-club)
 
